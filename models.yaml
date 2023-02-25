@@ -1,0 +1,17 @@
+models_dir: 'models/'
+models:
+  - Name: "FredZhang7"
+    Tokenizer: "distilgpt2"
+    Model: "FredZhang7/distilgpt2-stable-diffusion-v2"
+  - Name: "Gustavosta"
+    Tokenizer: "gpt2"
+    Model: "Gustavosta/MagicPrompt-Stable-Diffusion"
+  - Name: "promptgen-lexart"
+    Tokenizer: "distilgpt2"
+    Model: "AUTOMATIC/promptgen-lexart"
+  - Name: "promptgen-majinai-unsafe"
+    Tokenizer: "distilgpt2"
+    Model: "AUTOMATIC/promptgen-majinai-unsafe"
+  - Name: "text2image-prompt-generator"
+    Tokenizer: "gpt2"
+    Model: "succinctly/text2image-prompt-generator"

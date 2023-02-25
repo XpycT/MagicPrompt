@@ -1,0 +1,5 @@
+transformers
+torch
+transformers[sentencepiece]
+gradio
+omegaconf
