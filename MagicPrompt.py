@@ -146,7 +146,7 @@ with gr.Blocks(analytics_enabled=0, title="MagicPrompt Generator") as magicpromp
         with gr.Row():
             with gr.Column(scale=80):
                 text_input = gr.Textbox(
-                    lines=2, show_label=False, value="Cute girl",  placeholder="Enter your prompt...")
+                    lines=2, show_label=False, value="",  placeholder="Enter your prompt...")
             with gr.Column(scale=10):
                 submit = gr.Button('Generate', variant='primary')
         with gr.Row():
