@@ -13,7 +13,7 @@ Includes model:
 
 ## How to use
 
-Run launch.bat (windows) or launch.sh (linux)
+Run launch.bat (windows) or launch.sh (linux), then open http://127.0.0.1:8090
 
 To add models, modify the `models.yaml` file.
 
